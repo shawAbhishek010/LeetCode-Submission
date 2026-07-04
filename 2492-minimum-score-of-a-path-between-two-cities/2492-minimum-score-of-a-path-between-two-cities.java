@@ -1,142 +1,95 @@
-//BFS
+
+//dfs
 class Solution {
+    int score = Integer.MAX_VALUE;
     public int minScore(int n, int[][] roads) {
-        //creating adj list
-        List<List<pair>> adj = new ArrayList<>();
+        // Create adjacency list
+        List<List<Pair>> adj = new ArrayList<>();
         for (int i = 0; i <= n; i++) {
             adj.add(new ArrayList<>());
         }
-        //fillling adjancency list
-        for (int ele[] : roads) {
-            int u = ele[0];
-            int v = ele[1];
-            int w = ele[2];
-            adj.get(u).add(new pair(v, w));
-            adj.get(v).add(new pair(u, w));
+        // Fill adjacency list
+        for (int[] road : roads) {
+            int u = road[0];
+            int v = road[1];
+            int w = road[2];
+            adj.get(u).add(new Pair(v, w));
+            adj.get(v).add(new Pair(u, w));
         }
-        boolean visited[] = new boolean[n + 1];
-        Queue<pair> q = new LinkedList<>();
-        int score = Integer.MAX_VALUE;
-        q.add(new pair(1, 0));
-        while (q.size() != 0) {
-            pair pop = q.remove();
-            int node = pop.node;
-            int dist = pop.dist;
-            if (visited[node] == true)
-                continue;
-            visited[node] = true;
-            for (pair p : adj.get(node)) {
-                int a = p.node;
-                int b = p.dist;
-                score = Math.min(score, b);
-                if (visited[a] != true) {
-                    q.add(new pair(a, b));
-                }
-            }
-
-        }
+        boolean[] visited = new boolean[n + 1];
+        dfs(1, adj, visited);
         return score;
-
     }
 
-    class pair {
+    private void dfs(int node, List<List<Pair>> adj, boolean[] visited) {
+        visited[node] = true;
+        for (Pair p : adj.get(node)) {
+            score = Math.min(score, p.dist);
+
+            if (!visited[p.node]) {
+                dfs(p.node, adj, visited);
+            }
+        }
+    }
+
+    class Pair {
         int node;
         int dist;
 
-        pair(int n, int d) {
-            this.node = n;
-            this.dist = d;
+        Pair(int node, int dist) {
+            this.node = node;
+            this.dist = dist;
         }
     }
 }
-
+//BFS
 // class Solution {
 //     public int minScore(int n, int[][] roads) {
-
-//     }
-// }
-
-// class Solution {
-//     static int parent[];
-//     static int size[];
-
-//     public int minScore(int n, int[][] roads) {
-//         List<triplet> list = new ArrayList<>();
-//         n = n + 1;
-//         for (int i = 0; i < n; i++) {
-//             for (int j = i + 1; j < n; j++) {
-//                 int x1 = roads[i][0];
-//                 int y1 = roads[i][1];
-//                 int x2 = roads[j][0];
-//                 int y2 = roads[j][1];
-//                 int mDistance = Math.abs(x1 - x2) +
-//                         Math.abs(y1 - y2);
-
-//                 list.add(new triplet(i, j, mDistance));
-//             }
+//         //creating adj list
+//         List<List<pair>> adj = new ArrayList<>();
+//         for (int i = 0; i <= n; i++) {
+//             adj.add(new ArrayList<>());
 //         }
-//         int ans = Integer.MAX_VALUE;
-//         Collections.sort(list);
-//         parent = new int[n];
-//         size = new int[n];
-//         for (int i = 0; i < n; i++) {
-//             parent[i] = i;
-//             size[i] = 1;
+//         //fillling adjancency list
+//         for (int ele[] : roads) {
+//             int u = ele[0];
+//             int v = ele[1];
+//             int w = ele[2];
+//             adj.get(u).add(new pair(v, w));
+//             adj.get(v).add(new pair(u, w));
 //         }
-//         for (int i = 0; i < list.size(); i++) {
-//             triplet edge = list.get(i);
-//             int u = edge.u;
-//             int v = edge.v;
-//             int wt = edge.dist;
-//             if (find(u) == find(v))
+//         boolean visited[] = new boolean[n + 1];
+//         Queue<pair> q = new LinkedList<>();
+//         int score = Integer.MAX_VALUE;
+//         q.add(new pair(1, 0));
+//         while (q.size() != 0) {
+//             pair pop = q.remove();
+//             int node = pop.node;
+//             int dist = pop.dist;
+//             if (visited[node] == true)
 //                 continue;
-//             ans = Math.min(ans, wt);
-//             union(u, v);
-//         }
+//             visited[node] = true;
+//             for (pair p : adj.get(node)) {
+//                 int a = p.node;
+//                 int b = p.dist;
+//                 score = Math.min(score, b);
+//                 if (visited[a] != true) {
+//                     q.add(new pair(a, b));
+//                 }
+//             }
 
-//         return ans;
+//         }
+//         return score;
+
 //     }
 
-//     public class triplet implements Comparable<triplet> {
-//         int u;
-//         int v;
+//     class pair {
+//         int node;
 //         int dist;
 
-//         triplet(int u, int v, int dist) {
-//             this.u = u;
-//             this.v = v;
-//             this.dist = dist;
-//         }
-
-//         public int compareTo(triplet t) {
-//             return Integer.compare(this.dist, t.dist);
-//         }
-
-//     }
-
-//     // Union By Size
-//     public void union(int a, int b) {
-//         int leaderA = find(a);
-//         int leaderB = find(b);
-//         if (leaderA != leaderB) {
-//             if (size[leaderA] > size[leaderB]) {
-//                 parent[leaderB] = leaderA;
-//                 size[leaderA] += size[leaderB];
-
-//             } else {
-//                 parent[leaderA] = leaderB;
-//                 size[leaderB] += size[leaderA];
-//             }
+//         pair(int n, int d) {
+//             this.node = n;
+//             this.dist = d;
 //         }
 //     }
-
-//     // finding leader
-//     public int find(int a) {
-//         if (parent[a] == a)
-//             return a;
-//         int leader = find(parent[a]);
-//         parent[a] = leader;//path compression
-//         return leader;
-//     }
-
 // }
