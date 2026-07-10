@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
 | [0647-palindromic-substrings](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1092-shortest-common-supersequence) |
 | [3620-network-recovery-pathways](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3620-network-recovery-pathways) |
@@ -100,9 +101,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
