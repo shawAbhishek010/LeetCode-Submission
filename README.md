@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -119,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
