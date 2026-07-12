@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1514-path-with-maximum-probability) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2685-count-the-number-of-complete-components) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2685-count-the-number-of-complete-components) |
@@ -54,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2685-count-the-number-of-complete-components) |
