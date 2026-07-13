@@ -130,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
