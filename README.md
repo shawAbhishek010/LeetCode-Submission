@@ -159,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
