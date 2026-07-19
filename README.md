@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0647-palindromic-substrings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1092-shortest-common-supersequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
@@ -99,16 +100,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
