@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1174-immediate-food-delivery-ii) |
 | [1341-movie-rating](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1341-movie-rating) |
+| [1527-patients-with-a-condition](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1527-patients-with-a-condition) |
 | [1661-average-time-of-process-per-machine](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1667-fix-names-in-a-table) |
 ## Hash Table
