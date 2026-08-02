@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0877-stone-game](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1092-shortest-common-supersequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
+| [0877-stone-game](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
