@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0877-stone-game](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0877-stone-game) |
+| [0980-unique-paths-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -217,4 +219,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0980-unique-paths-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
