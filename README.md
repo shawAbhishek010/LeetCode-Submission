@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1514-path-with-maximum-probability) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1631-path-with-minimum-effort](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1291-sequential-digits) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
@@ -220,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Hamiltonian Path
 |  |
 | ------- |
