@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0079-word-search) |
