@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 ## Enumeration
