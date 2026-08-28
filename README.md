@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3620-network-recovery-pathways) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
 |  |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
 | ------- |
