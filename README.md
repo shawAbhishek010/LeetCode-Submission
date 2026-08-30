@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
