@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0046-permutations) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0015-3sum) |
 | [0647-palindromic-substrings](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0647-palindromic-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
