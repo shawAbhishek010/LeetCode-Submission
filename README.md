@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0572-subtree-of-another-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
