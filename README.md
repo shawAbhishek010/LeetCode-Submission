@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0993-cousins-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0993-cousins-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0993-cousins-in-binary-tree) |
 ## Enumeration
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -334,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Linked List
 |  |
 | ------- |
@@ -343,8 +349,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
