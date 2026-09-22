@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0877-stone-game](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0877-stone-game) |
 | [0980-unique-paths-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0980-unique-paths-iii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -367,4 +371,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
