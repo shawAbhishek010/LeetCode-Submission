@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0572-subtree-of-another-tree) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0079-word-search) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0572-subtree-of-another-tree) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0572-subtree-of-another-tree) |
@@ -382,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
