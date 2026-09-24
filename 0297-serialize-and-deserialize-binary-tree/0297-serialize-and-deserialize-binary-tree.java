@@ -11,7 +11,7 @@ public class Codec {
             if (sb.length() > 0)
                 sb.append(",");
             if (node == null) {
-                sb.append("n");
+                sb.append("null");
             } 
             else {
                 sb.append(node.val);
@@ -26,7 +26,7 @@ public class Codec {
         if (data == null || data.isEmpty())
             return null;
         String[] parts = data.split(",");
-        if (parts[0].equals("n"))
+        if (parts[0].equals("null"))
             return null;
         TreeNode root = new TreeNode(Integer.parseInt(parts[0]));
 
@@ -36,7 +36,7 @@ public class Codec {
         while (!q.isEmpty() && i < parts.length) {
             TreeNode parent = q.poll();
             // Left child
-            if (!parts[i].equals("n")) {
+            if (!parts[i].equals("null")) {
                 TreeNode left = new TreeNode(Integer.parseInt(parts[i]));
                 parent.left = left;
                 q.offer(left);
@@ -44,7 +44,7 @@ public class Codec {
             i++;
 
             // Right child
-            if (i < parts.length && !parts[i].equals("n")) {
+            if (i < parts.length && !parts[i].equals("null")) {
                 TreeNode right = new TreeNode(Integer.parseInt(parts[i]));
                 parent.right = right;
                 q.offer(right);
