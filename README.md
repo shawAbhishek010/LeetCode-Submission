@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1092-shortest-common-supersequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
