@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0877-stone-game](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Design
 |  |
