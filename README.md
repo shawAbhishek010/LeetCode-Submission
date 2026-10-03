@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0032-longest-valid-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0647-palindromic-substrings) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
