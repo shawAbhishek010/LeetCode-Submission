@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0647-palindromic-substrings) |
+| [0856-score-of-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1092-shortest-common-supersequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
