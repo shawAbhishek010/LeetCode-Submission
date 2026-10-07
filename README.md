@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0647-palindromic-substrings) |
 | [0856-score-of-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0856-score-of-parentheses) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0301-remove-invalid-parentheses) |
 | [0980-unique-paths-iii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0980-unique-paths-iii) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Bit Manipulation
