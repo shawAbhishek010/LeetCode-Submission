@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3620-network-recovery-pathways](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
