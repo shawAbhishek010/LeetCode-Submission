@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0096-unique-binary-search-trees) |
 | [0877-stone-game](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3360-stone-removal-game](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/1260-shift-2d-grid) |
+| [3360-stone-removal-game](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shawAbhishek010/LeetCode-Submission/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
